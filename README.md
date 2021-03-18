@@ -2,7 +2,11 @@
 
 ### Author: Mengqi (Archie) Chen
 
+#### Contact: archiecmq@gmail.com
+
 This research project was originally submitted as the term paper to UP 460 Transportation/Land Use Policy at the University of Illinoist at Urbana-Champaign on December 18<sup>th</sup>, 2020. It was later nominated by Dr. Bumsoo Lee, a tenured Professor of Urban Planning at University of Illinois, to the 2021 APA Transportation Planning Division Student Paper Competition
+
+*Note:* The size of raw data is 1.01 GB beyond the file limit of 100 MB on GitHub, so that it is not uploaded. Please contact the author if you would like to access the raw data. A list of data sources can be found in the final report.
 
 ## Abstract
 
